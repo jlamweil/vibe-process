@@ -10,7 +10,9 @@
     - research: experiment-first workflow. Hypothesis → Experiment → Result → **Decision**.
     - documentation: pandoc/latex. Examples: github.com/fcakyon/phd-skills
     - dev: https://github.com/Fission-AI/OpenSpec
-* Time tracking: https://activitywatch.net/
+* Time tracking:
+    - https://activitywatch.net/
+    - add aw-watcher-vscode extension to vscode
 * LLM tracking:
     - https://github.com/helicone/helicone
     - for Claude: https://docs.helicone.ai/integrations/anthropic/claude-code
