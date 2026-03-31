@@ -7,10 +7,14 @@
     - setup guardrails.
     - Maybe looping mechanisms/agent teams. Example: github.com/code-yeongyu/oh-my-openagent
 * Specialized skills:
-    - research: experiment-first workflow. Hypothesis → Experiment → Result → Decision.
+    - research: experiment-first workflow. Hypothesis → Experiment → Result → **Decision**.
     - documentation: pandoc/latex. Examples: github.com/fcakyon/phd-skills
     - dev: https://github.com/Fission-AI/OpenSpec
 * Time tracking: https://activitywatch.net/
+* LLM tracking:
+    - https://github.com/helicone/helicone
+    - for Claude: https://docs.helicone.ai/integrations/anthropic/claude-code
+    - for OpenCode: https://github.com/H2Shami/opencode-helicone-session
 * Dashboard: https://www.metabase.com/start/oss/
 
 2) Start from boilerplate. Example: github.com/bosd/cookiecutter-uv-hypermodern-python/tree/main
