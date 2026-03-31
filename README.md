@@ -25,9 +25,9 @@
 
 4) Set up tracking stack  
 Example:
-Experiment tracking → Weights & Biases
-Data storage → BigQuery
-Dashboard → Metabase
+Experiment tracking → MLFlow
+Data storage → PostGreSQL  
+Dashboard → Metabase  
 
 5) Standardized experiment logging.  
 Log parameters, metrics, dataset version
