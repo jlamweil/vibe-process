@@ -4,11 +4,14 @@
 * IDE: VSCode or PyCharm.
 * Coding agent subscription. 
 * General skills, plugins :
-    - setup guardrails. Examples: github.com/fcakyon/phd-skills . https://github.com/Fission-AI/OpenSpec .
+    - setup guardrails.
     - Maybe looping mechanisms/agent teams. Example: github.com/code-yeongyu/oh-my-openagent
 * Specialized skills:
     - research: experiment-first workflow. Hypothesis → Experiment → Result → Decision.
-    - 
+    - documentation: pandoc/latex. Examples: github.com/fcakyon/phd-skills
+    - dev: https://github.com/Fission-AI/OpenSpec
+* Time tracking: https://activitywatch.net/
+* Dashboard: https://www.metabase.com/start/oss/
 
 2) Start from boilerplate. Example: github.com/bosd/cookiecutter-uv-hypermodern-python/tree/main
 
