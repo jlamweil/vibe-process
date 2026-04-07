@@ -36,4 +36,12 @@ Log parameters, metrics, dataset version
 
 7) Rely on experiment batching. Example: autogluon.
 
+## Architecture keywords
 
+* Monolith to Microservices by Sam Newman
+* Building Event-Driven Microservices by Adam Bellemare
+* https://github.com/ddd-crew/ddd-starter-modelling-process
+
+## Stack
+
+Python, Rust, Typescript
