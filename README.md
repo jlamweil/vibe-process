@@ -6,6 +6,7 @@
 * General skills, plugins :
     - setup guardrails.
     - Maybe looping mechanisms/agent teams. Example: github.com/code-yeongyu/oh-my-openagent
+    - Reduce token usage. https://github.com/JuliusBrussee/caveman
 * Specialized skills:
     - research: experiment-first workflow. Hypothesis → Experiment → Result → **Decision**.
     - documentation: pandoc/latex. Examples: github.com/fcakyon/phd-skills
