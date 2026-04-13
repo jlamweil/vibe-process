@@ -7,6 +7,7 @@
     - setup guardrails.
     - Maybe looping mechanisms/agent teams. Example: github.com/code-yeongyu/oh-my-openagent
     - Reduce token usage. https://github.com/JuliusBrussee/caveman
+    - LLM Wiki / graphs: https://github.com/tirth8205/code-review-graph
 * Specialized skills:
     - research: experiment-first workflow. Hypothesis → Experiment → Result → **Decision**.
     - documentation: pandoc/latex. Examples: github.com/fcakyon/phd-skills
