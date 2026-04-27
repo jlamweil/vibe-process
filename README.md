@@ -13,6 +13,7 @@
     - research: experiment-first workflow. Hypothesis → Experiment → Result → **Decision**.
     - documentation: pandoc/latex. Examples: github.com/fcakyon/phd-skills
     - dev: https://github.com/Fission-AI/OpenSpec
+    -     https://github.com/mattpocock/skills
 * Time tracking:
     - https://activitywatch.net/
     - add aw-watcher-vscode extension to vscode
@@ -47,3 +48,4 @@ Python, Rust, Typescript
 
 * github.com/OpenDataBox/OpenCook
 * https://github.com/beita6969/ScienceClaw
+* https://github.com/lucasrosati/claude-code-memory-setup
